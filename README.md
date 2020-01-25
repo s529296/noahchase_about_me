@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Noah Chase
+![Profile Pciture](https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/13445545_1389317247750182_1692655521016159150_n.jpg?_nc_cat=111&_nc_ohc=bVSwbbi3H3cAX_RzHmV&_nc_ht=scontent-ort2-2.xx&oh=9f9f8517f3d0a4aadce57d413f244607&oe=5E97E3A2 "Profile Pic")
 
-You can use the [editor on GitHub](https://github.com/s529296/noahchase_about_me/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Img Src = https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/13445545_1389317247750182_1692655521016159150_n.jpg?_nc_cat=111&_nc_ohc=bVSwbbi3H3cAX_RzHmV&_nc_ht=scontent-ort2-2.xx&oh=9f9f8517f3d0a4aadce57d413f244607&oe=5E97E3A2
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Motivational Quote](https://cdn.lifehack.org/wp-content/uploads/2016/12/08231818/best-motivational-quotes-act.jpg "Motivational Quote")
 
-### Markdown
+Img Src = https://cdn.lifehack.org/wp-content/uploads/2016/12/08231818/best-motivational-quotes-act.jpg
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Interests
+* Buisness models
+* Flying
+* Eating Out
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s529296/noahchase_about_me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Important Links
+1. [CS563 Syllabus](https://profcase.github.io/44-563-webapps-syllabus/ "Syllabus Website")
+2. [My Facebook](https://www.facebook.com/noah.chase.399 "Noah Chase's Facebook")
+3. [My Instagram](https://www.instagram.com/noahchay/ "Noah Chase's Instagram")
